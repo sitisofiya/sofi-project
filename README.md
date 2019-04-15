@@ -1,6 +1,9 @@
 # sofi-project
 
 # 1.) Gambar flowchart uas
+# ini adalah bagan dengan simbol tertentu yang menjelaskan urutan proses secara detail
+# yang berhubungan dengan program uas dibawah ini :
+
 <p align="center">
 <img src="https://github.com/sitisofiya/sofi-project/blob/master/flow.png" width="450" height="300" />
 </p>
